@@ -6,7 +6,7 @@ app = Flask(__name__)
 def home():
     return """
     <h1>Docker Hub + Azure ACR Multi Registry CI/CD</h1>
-    <p>Task 4 Deployment Success!</p>
+    <p>Task 4 Deployment Success! Version 2</p>
     <p>Student: jihyun2144</p>
     """
 
